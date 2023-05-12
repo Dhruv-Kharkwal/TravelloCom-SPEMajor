@@ -24,15 +24,17 @@ import { setPosts } from "state";
 const MyPostWidget = ({ picturePath }) => {
   const dispatch = useDispatch();
   const [isImage, setIsImage] = useState(false);
-  const [image, setImage] = useState(null);
+  const [image, setImage] = useState(null); 
   const [post, setPost] = useState("");
-  const [location, setLocation] = useState("");
+  const [location,setLocation]=useState("");
   const { palette } = useTheme();
   const { _id } = useSelector((state) => state.user);
   const token = useSelector((state) => state.token);
   const isNonMobileScreens = useMediaQuery("(min-width: 1000px)");
   const mediumMain = palette.neutral.mediumMain;
   const medium = palette.neutral.medium;
+
+
   const handlePost = async () => {
     const formData = new FormData();
     formData.append("userId", _id);
