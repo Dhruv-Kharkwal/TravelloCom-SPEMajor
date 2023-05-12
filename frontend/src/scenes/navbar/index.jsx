@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          TravelloCom
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween

@@ -10,12 +10,6 @@ const AdvertWidget = () => {
 
   return (
     <WidgetWrapper>
-      <FlexBetween>
-        <Typography color={dark} variant="h5" fontWeight="500">
-          Sponsored
-        </Typography>
-        <Typography color={medium}>Create Ad</Typography>
-      </FlexBetween>
       <img
         width="100%"
         height="auto"
@@ -24,12 +18,11 @@ const AdvertWidget = () => {
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
       />
       <FlexBetween>
-        <Typography color={main}>MikaCosmetics</Typography>
-        <Typography color={medium}>mikacosmetics.com</Typography>
+      <Typography color={main}>Quote</Typography>
+        <Typography color={medium}>Here is the quote for day!!!</Typography>
       </FlexBetween>
       <Typography color={medium} m="0.5rem 0">
-        Your pathway to stunning and immaculate beauty and made sure your skin
-        is exfoliating skin and shining like light.
+      “Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.” – Master Oogway
       </Typography>
     </WidgetWrapper>
   );
