@@ -1,7 +1,4 @@
 pipeline{
-    environment{
-
-    }
     agent any
     stages{
         stage('Git-pull'){
@@ -15,7 +12,7 @@ pipeline{
             environment{
                 ImageName='';
             }
-
+           steps{
             dir('frontend'){
                 script{
                   ImageName=docker.build "skchauhan07/travelocom"
@@ -24,13 +21,14 @@ pipeline{
                   }
                 }
             }
+           }
         }
 
         stage('Build and push backend image'){
             environment{
                 ImageName='';
             }
-
+            steps{
             dir('backend'){
                 script{
                     ImageName=docker.build "skchauhan07/travellocom-backend"
@@ -39,12 +37,13 @@ pipeline{
                     }
                 }
             }
-        }
-
-        stage('Ansible Deploy'){
-            steps{
-                
             }
         }
+
+        // stage('Ansible Deploy'){
+        //     steps{
+                
+        //     }
+        // }
     }
 }
