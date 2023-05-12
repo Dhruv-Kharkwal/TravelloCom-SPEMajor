@@ -1,5 +1,6 @@
 import Post from "../models/Post.js";
 import User from "../models/User.js";
+import { logger } from "../config/logger.js";
 
 export const createPost = async (req, res) => {
   try {
@@ -24,9 +25,11 @@ export const createPost = async (req, res) => {
 
     const post = await Post.find();
     //console.log("Post" + post);
+    logger.info(`New Post created by user.`);
     res.status(201).json(post);
   } catch (err) {
-    console.log(err.message);
+    //logger part
+    logger.error(`Error while creating new Post: ${err.message}`);
     res.status(409).json({ message: err.message });
   }
 };
@@ -34,10 +37,13 @@ export const createPost = async (req, res) => {
 /*READ*/
 export const getFeedPosts = async (req, res) => {
   try {
+    logger.info(`Getting users post feeds.`);
+
     const post = await Post.find();
     res.status(201).json(post);
   } catch (err) {
-    console.log(err.message);
+    //logger part
+    logger.error(`Error while getting feed posts ${err.message}`);
     res.status(404).json({ message: err.message });
   }
 };
@@ -46,8 +52,11 @@ export const getUserPosts = async (req, res) => {
   try {
     const { userId } = req.params;
     const post = await Post.find({ userId });
+    logger.info(`Getting users own post.`);
     res.status(201).json(post);
   } catch (err) {
+    //logger part
+    logger.error(`Error while getting users posts ${err.message}`);
     res.status(404).json({ message: err.message });
   }
 };
@@ -72,9 +81,10 @@ export const likePost = async (req, res) => {
       { likes: post.likes },
       { new: true }
     );
-
+    logger.info(`Post liked!`);
     res.status(200).json(updatePost);
   } catch (err) {
+    logger.error(`Error while post like. ${err.message}`);
     res.status(404).json({ message: err.message });
   }
 };
