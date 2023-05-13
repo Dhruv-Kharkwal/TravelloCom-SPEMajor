@@ -37,7 +37,6 @@ kind: Service
 metadata:
   name: travellocom-backend-service
 spec:
-  type: LoadBalancer
   selector:
     app: travellocom-backend
   ports:
