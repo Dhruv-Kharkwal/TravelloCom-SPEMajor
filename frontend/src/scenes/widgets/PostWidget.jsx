@@ -35,7 +35,7 @@ import {
     const primary = palette.primary.main;
   
     const patchLike = async () => {
-      const response = await fetch(`${process.env.REACT_APP_API_URL}/posts/${postId}/like`, {
+      const response = await fetch(`/posts/${postId}/like`, {
         method: "PATCH",
         headers: {
           Authorization: `Bearer ${token}`,
@@ -64,7 +64,7 @@ import {
             height="auto"
             alt="post"
             style={{ borderRadius: "0.75rem", marginTop: "0.75rem" }}
-            src={`${process.env.REACT_APP_API_URL}/assets/${picturePath}`}
+            src={`/assets/${picturePath}`}
           />
         )}
         <FlexBetween mt="0.25rem">
