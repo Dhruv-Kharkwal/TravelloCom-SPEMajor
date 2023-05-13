@@ -40,10 +40,10 @@ pipeline{
             }
         }
 
-        // stage('Ansible Deploy'){
-        //     steps{
-                
-        //     }
-        // }
+        stage('Ansible Deploy'){
+            steps{
+                sh "ansible-playbook -i /home/sudhanshu/TravelloCom-SPEMajor/ansible/inventory /home/sudhanshu/TravelloCom-SPEMajor/ansible/deploy.yaml"
+            }
+        }
     }
 }
