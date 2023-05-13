@@ -42,7 +42,9 @@ pipeline{
 
         stage('Ansible Deploy'){
             steps{
-                sh "ansible-playbook -i /home/sudhanshu/TravelloCom-SPEMajor/ansible/inventory /home/sudhanshu/TravelloCom-SPEMajor/ansible/deploy.yaml"
+                // sh "ansible-playbook -i /home/sudhanshu/TravelloCom-SPEMajor/ansible/inventory /home/sudhanshu/TravelloCom-SPEMajor/ansible/deploy.yaml"
+                ansiblePlaybook becomeUser: null, colorized: true, disableHostKeyChecking: true, installation: 'Ansible', inventory: 'ansible/inventory',
+                 playbook: 'ansible/deploy.yaml', sudoUser: null
             }
         }
     }
