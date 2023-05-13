@@ -3,7 +3,7 @@
   hosts: all
   tasks:
     - name: delete all previous deployment
-      shell: kubectl delete all --all
+      shell: kubectl delete -f all --all
 
     - name: apply secret file
       shell: kubectl apply -f /home/sudhanshu/TravelloCom-SPEMajor/k8-config/travellocom-secret.yaml
