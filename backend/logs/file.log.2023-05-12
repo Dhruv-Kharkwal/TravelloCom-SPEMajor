@@ -11,3 +11,10 @@
 2023-05-12T16:45:37.849Z [INFO]: Successfully added/removed user's friend!
 2023-05-12T16:45:39.898Z [INFO]: Successfully added/removed user's friend!
 2023-05-12T16:51:43.315Z [ERROR]: User login failed: User does not exist.
+2023-05-12T18:08:16.930Z [INFO]: User logged in: dhruv@gmail.com
+2023-05-12T18:08:17.702Z [INFO]: Getting users post feeds.
+2023-05-12T18:08:17.775Z [INFO]: Successfully got user's data!
+2023-05-12T18:08:17.929Z [INFO]: Successfully got user's data!
+2023-05-12T18:08:18.026Z [INFO]: Getting users post feeds.
+2023-05-12T18:08:18.638Z [INFO]: Successfully got user's friend's list!
+2023-05-12T18:08:18.842Z [INFO]: Successfully got user's friend's list!

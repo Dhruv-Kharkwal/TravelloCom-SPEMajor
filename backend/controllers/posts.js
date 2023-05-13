@@ -6,7 +6,6 @@ export const createPost = async (req, res) => {
   try {
     const { userId, description, location, picturePath } = req.body;
     console.log(req.body);
-    console.log("hello");
     const user = await User.findById(userId);
     console.log(user);
     const newPost = new Post({
@@ -86,5 +85,55 @@ export const likePost = async (req, res) => {
   } catch (err) {
     logger.error(`Error while post like. ${err.message}`);
     res.status(404).json({ message: err.message });
+  }
+};
+
+export const addComment = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const { comment } = req.body;
+    console.log(comment);
+
+    const post = await Post.findById(id);
+
+    console.log(post);
+
+    post.comments.push(comment);
+    await post.save();
+    console.log(post);
+
+    // const updatePost = await Post.findByIdAndUpdate(id, {
+    //   comments: post.comments,
+    // });
+
+    const updatePost = await Post.find();
+
+    logger.info(`Comment added to Post!`);
+    res.status(200).json(updatePost);
+  } catch (err) {
+    logger.error(`Error while adding comment. ${err.message}`);
+    console.log(err.message);
+    res.status(404).json({ message: err.message });
+  }
+};
+
+export const deletePost = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const deletedPost = await Post.findOneAndDelete({ _id: id });
+
+    if (!deletedPost) {
+      return res.status(404).json({ message: "Post not found" });
+    }
+
+    const updatePost = await Post.find();
+
+    logger.info("Post deleted");
+    return res.status(200).json(updatePost);
+  } catch (err) {
+    logger.error(`Error while deleting post. ${err.message}`);
+    return res
+      .status(500)
+      .json({ message: "Error occurred while deleting post" });
   }
 };

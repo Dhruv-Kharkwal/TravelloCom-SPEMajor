@@ -5,14 +5,6 @@ import { logger } from "../config/logger.js";
 /* REGISTER USER */
 export const register = async (req, res) => {
   try {
-    logger.info({
-      message: "API request",
-      method: req.method,
-      path: req.path,
-      query: req.query,
-      body: req.body,
-    });
-
     const {
       firstName,
       lastName,
@@ -36,12 +28,9 @@ export const register = async (req, res) => {
       friends,
       location,
       occupation,
-      //viewedProfile: 1,
-      //impression: 1
     });
     const savedUser = await newUser.save();
     logger.info(`User registered: ${email}`);
-
     res.status(201).json(savedUser);
   } catch (err) {
     logger.error(`User registration failed: ${err.message}`);
@@ -67,6 +56,7 @@ export const login = async (req, res) => {
     const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET);
     delete user.password;
     logger.info(`User logged in: ${email}`);
+    console.log({ token, user });
     res.status(200).json({ token, user });
   } catch (err) {
     logger.error(`User login failed: ${err.message}`);
