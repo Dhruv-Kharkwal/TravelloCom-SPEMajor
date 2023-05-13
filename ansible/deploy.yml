@@ -2,8 +2,11 @@
 - name: Deploy travellocom
   hosts: all
   tasks:
-    - name: delete all previous deployment
-      shell: kubectl delete -f all --all
+    - name: delete backend previous deployment
+      shell: kubectl delete -f /home/sudhanshu/TravelloCom-SPEMajor/k8-config/travellocom-backend.yaml
+    
+    - name: delete frontend previous deployment
+      shell: kubectl delete -f /home/sudhanshu/TravelloCom-SPEMajor/k8-config/travellocom-frontend.yaml
 
     - name: apply secret file
       shell: kubectl apply -f /home/sudhanshu/TravelloCom-SPEMajor/k8-config/travellocom-secret.yaml
