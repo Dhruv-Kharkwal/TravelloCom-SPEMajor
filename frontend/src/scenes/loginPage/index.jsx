@@ -12,7 +12,12 @@ const LoginPage = () => {
         p="1rem 6%"
         textAlign="center"
       >
-        <Typography fontWeight="bold" fontSize="32px" color="primary">
+        <Typography
+          fontWeight="bold"
+          fontSize="32px"
+          color="primary"
+          align="center"
+        >
           TravelloCom
         </Typography>
       </Box>

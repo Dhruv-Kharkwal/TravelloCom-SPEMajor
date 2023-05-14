@@ -39,7 +39,6 @@ const PostWidget = ({
   const loggedInUserId = useSelector((state) => state.user._id);
   const isLiked = Boolean(likes[loggedInUserId]);
   const likeCount = Object.keys(likes).length;
-
   const { palette } = useTheme();
   const main = palette.neutral.main;
   const primary = palette.primary.main;
@@ -76,19 +75,21 @@ const PostWidget = ({
   };
 
   const deletePost = async () => {
-    const response = await fetch(
-      `http://localhost:3001/posts/${postId}/deletePost`,
-      {
-        method: "DELETE",
-        headers: {
-          Authorization: `Bearer ${token}`,
-          "Content-Type": "application/json",
-        },
-        // body: JSON.stringify({ comment: comment }),
-      }
-    );
-    const updatedPost = await response.json();
-    dispatch(setPosts({ post: updatedPost }));
+    if (postUserId === loggedInUserId) {
+      const response = await fetch(
+        `http://localhost:3001/posts/${postId}/deletePost`,
+        {
+          method: "DELETE",
+          headers: {
+            Authorization: `Bearer ${token}`,
+            "Content-Type": "application/json",
+          },
+          // body: JSON.stringify({ comment: comment }),
+        }
+      );
+      const updatedPosts = await response.json();
+      dispatch(setPosts({ posts: updatedPosts }));
+    }
   };
 
   return (
