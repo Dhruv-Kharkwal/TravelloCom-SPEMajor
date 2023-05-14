@@ -5,7 +5,7 @@ import UserWidget from "scenes/widgets/UserWidget";
 import MyPostWidget from "scenes/widgets/MyPostWidget";
 import PostsWidget from "scenes/widgets/PostsWidget";
  import FriendListWidget from "scenes/widgets/FriendListWidget";
- import AdvertWidget from "scenes/widgets/AdvertWidget";
+import AdvertWidget from "scenes/widgets/AdvertWidget";
 
 const HomePage = () => {
   const isNonMobileScreens = useMediaQuery("(min-width:1000px)");
@@ -44,4 +44,4 @@ const HomePage = () => {
   );
 };
 
-export default HomePage; 
+export default HomePage;

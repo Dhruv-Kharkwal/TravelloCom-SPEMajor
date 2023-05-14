@@ -29,13 +29,15 @@ const MyPostWidget = ({ picturePath }) => {
   const [image, setImage] = useState(null);
   const [video, setVideo] = useState(null);
   const [post, setPost] = useState("");
-  const [location, setLocation] = useState("");
+  const [location,setLocation]=useState("");
   const { palette } = useTheme();
   const { _id } = useSelector((state) => state.user);
   const token = useSelector((state) => state.token);
   // const isNonMobileScreens = useMediaQuery("(min-width: 1000px)");
   const mediumMain = palette.neutral.mediumMain;
   const medium = palette.neutral.medium;
+
+
   const handlePost = async () => {
     const formData = new FormData();
     formData.append("userId", _id);
@@ -50,7 +52,7 @@ const MyPostWidget = ({ picturePath }) => {
       formData.append("videoPath", video.name);
     }
 
-    const response = await fetch(`http://localhost:3001/posts`, {
+    const response = await fetch(`/posts`, {
       method: "POST",
       headers: { Authorization: `Bearer ${token}` },
       body: formData,
