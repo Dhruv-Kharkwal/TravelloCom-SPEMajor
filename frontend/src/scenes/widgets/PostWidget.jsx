@@ -45,7 +45,7 @@ const PostWidget = ({
   const primaryLight = palette.primary.light;
 
   const patchLike = async () => {
-    const response = await fetch(`http://localhost:3001/posts/${postId}/like`, {
+    const response = await fetch(`/posts/${postId}/like`, {
       method: "PATCH",
       headers: {
         Authorization: `Bearer ${token}`,
@@ -59,7 +59,7 @@ const PostWidget = ({
 
   const patchComment = async () => {
     const response = await fetch(
-      `http://localhost:3001/posts/${postId}/comments`,
+      `/posts/${postId}/comments`,
       {
         method: "PATCH",
         headers: {
@@ -77,7 +77,7 @@ const PostWidget = ({
   const deletePost = async () => {
     if (postUserId === loggedInUserId) {
       const response = await fetch(
-        `http://localhost:3001/posts/${postId}/deletePost`,
+        `/posts/${postId}/deletePost`,
         {
           method: "DELETE",
           headers: {
@@ -105,34 +105,35 @@ const PostWidget = ({
         <Typography color={main} sx={{ mt: "1rem" }}>
           {description}
         </Typography>
-        {picturePath && (
-          <img
-            width="100%"
-            height="auto"
-            alt="post"
-            style={{ borderRadius: "0.75rem", marginTop: "0.75rem" }}
-            src={`/assets/${picturePath}`}
-          />
-        )}
-        <FlexBetween mt="0.25rem">
-          <FlexBetween gap="1rem">
-            <FlexBetween gap="0.3rem">
-              <IconButton onClick={patchLike}>
-                {isLiked ? (
-                  <FavoriteOutlined sx={{ color: primary }} />
-                ) : (
-                  <FavoriteBorderOutlined />
-                )}
-              </IconButton>
-              <Typography>{likeCount}</Typography>
-            </FlexBetween>
-  
-            <FlexBetween gap="0.3rem">
-              <IconButton onClick={() => setIsComments(!isComments)}>
-                <ChatBubbleOutlineOutlined />
-              </IconButton>
-              <Typography>{comments.length}</Typography>
-            </FlexBetween>
+      </Box>
+
+      {picturePath && (
+        <img
+          width="100%"
+          height="auto"
+          alt="post"
+          style={{ borderRadius: "0.75rem", marginTop: "0.75rem" }}
+          src={`/assets/${picturePath}`}
+        />
+      )}
+      <FlexBetween mt="0.25rem">
+        <FlexBetween gap="1rem">
+          <FlexBetween gap="0.3rem">
+            <IconButton onClick={patchLike}>
+              {isLiked ? (
+                <FavoriteOutlined sx={{ color: primary }} />
+              ) : (
+                <FavoriteBorderOutlined />
+              )}
+            </IconButton>
+            <Typography>{likeCount}</Typography>
+          </FlexBetween>
+
+          <FlexBetween gap="0.3rem">
+            <IconButton onClick={() => setIsComments(!isComments)}>
+              <ChatBubbleOutlineOutlined />
+            </IconButton>
+            <Typography>{comments.length}</Typography>
           </FlexBetween>
         </FlexBetween>
 
