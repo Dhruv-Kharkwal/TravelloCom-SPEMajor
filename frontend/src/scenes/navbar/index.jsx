@@ -24,14 +24,17 @@ import { useDispatch, useSelector } from "react-redux";
 import { setMode, setLogout } from "state";
 import { useNavigate } from "react-router-dom";
 import FlexBetween from "components/FlexBetween";
+import { setSearch } from "state";
 
 const Navbar = () => {
   const [isMobileMenuToggled, setIsMobileMenuToggled] = useState(false);
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const user = useSelector((state) => state.user);
-  const isNonMobileScreens = useMediaQuery("(min-width: 1000px)");
+  const search = useSelector((state) => state.search);
 
+  const isNonMobileScreens = useMediaQuery("(min-width: 1000px)");
+  const { palette } = useTheme();
   const theme = useTheme();
   const neutralLight = theme.palette.neutral.light;
   const dark = theme.palette.neutral.dark;
@@ -65,7 +68,17 @@ const Navbar = () => {
             gap="3rem"
             padding="0.1rem 1.5rem"
           >
-            <InputBase placeholder="Search..." />
+            <InputBase
+              placeholder="Search"
+              onChange={(e) => dispatch(setSearch({ search: e.target.value }))}
+              value={search}
+              sx={{
+                width: "100%",
+                backgroundColor: palette.neutral.light,
+                borderRadius: "2rem",
+                padding: "0.5rem 5rem",
+              }}
+            />
             <IconButton>
               <Search />
             </IconButton>
