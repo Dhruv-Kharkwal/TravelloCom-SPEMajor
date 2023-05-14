@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: travellocom-frontend
-          image: skchauhan07/travelocom:v2
+          image: skchauhan07/travelocom
           ports:
             - containerPort: 3000
 ---
