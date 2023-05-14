@@ -1,2 +1,5 @@
 #backend
 backend/node_modules
+
+#for log folder
+backend/log/*.log*

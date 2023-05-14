@@ -1,13 +1,14 @@
 import User from "../models/User.js";
-
+import { logger } from "../config/logger.js";
 /*READ*/
 export const getUser = async (req, res) => {
   try {
     const { id } = req.params;
     const user = await User.findById(id);
+    logger.info(`Successfully got user's data!`);
     res.status(200).json(user);
   } catch (err) {
-    console.log(err.message);
+    logger.error(`Error while getting user data: ${err.message}`);
     res.status(404).json({ message: err.message });
   }
 };
@@ -25,9 +26,10 @@ export const getUserFriends = async (req, res) => {
         return { _id, firstName, lastName, occupation, location, picturePath };
       }
     );
+    logger.info(`Successfully got user's friend's list!`);
     res.status(200).json(formattedFriends);
   } catch (err) {
-    console.log(err.message);
+    logger.error(`Error while getting user's friends data: ${err.message}`);
     res.status(404).json({ message: err.message });
   }
 };
@@ -57,9 +59,10 @@ export const addRemoveFriend = async (req, res) => {
         return { _id, firstName, lastName, occupation, location, picturePath };
       }
     );
-
+    logger.info(`Successfully added/removed user's friend!`);
     res.status(200).json(formattedFriends);
   } catch (err) {
+    logger.error(`Error while adding/removing user's friend: ${err.message}`);
     res.status(404).json({ message: err.message });
   }
 };

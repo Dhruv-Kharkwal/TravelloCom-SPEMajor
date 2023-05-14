@@ -2,6 +2,8 @@ import {
   EditOutlined,
   DeleteOutlined,
   ImageOutlined,
+  // MoreHorizOutlined,
+  // GifBoxOutlined,
 } from "@mui/icons-material";
 import {
   Box,
@@ -11,7 +13,7 @@ import {
   useTheme,
   Button,
   IconButton,
-  useMediaQuery,
+  // useMediaQuery,
 } from "@mui/material";
 import FlexBetween from "components/FlexBetween";
 import Dropzone from "react-dropzone";
@@ -24,13 +26,14 @@ import { setPosts } from "state";
 const MyPostWidget = ({ picturePath }) => {
   const dispatch = useDispatch();
   const [isImage, setIsImage] = useState(false);
-  const [image, setImage] = useState(null); 
+  const [image, setImage] = useState(null);
+  const [video, setVideo] = useState(null);
   const [post, setPost] = useState("");
   const [location,setLocation]=useState("");
   const { palette } = useTheme();
   const { _id } = useSelector((state) => state.user);
   const token = useSelector((state) => state.token);
-  const isNonMobileScreens = useMediaQuery("(min-width: 1000px)");
+  // const isNonMobileScreens = useMediaQuery("(min-width: 1000px)");
   const mediumMain = palette.neutral.mediumMain;
   const medium = palette.neutral.medium;
 
@@ -39,10 +42,14 @@ const MyPostWidget = ({ picturePath }) => {
     const formData = new FormData();
     formData.append("userId", _id);
     formData.append("description", post);
-    formData.append("location", location)
+    formData.append("location", location);
     if (image) {
       formData.append("picture", image);
       formData.append("picturePath", image.name);
+    }
+    if (video) {
+      formData.append("video", video);
+      formData.append("videoPath", video.name);
     }
 
     const response = await fetch(`/posts`, {
@@ -53,7 +60,9 @@ const MyPostWidget = ({ picturePath }) => {
     const posts = await response.json();
     dispatch(setPosts({ posts }));
     setImage(null);
+    setVideo(null);
     setPost("");
+    setLocation("");
   };
 
   return (
@@ -71,7 +80,7 @@ const MyPostWidget = ({ picturePath }) => {
             padding: "1rem 2rem",
           }}
         />
-         <InputBase
+        <InputBase
           placeholder="Add location"
           onChange={(e) => setLocation(e.target.value)}
           value={location}
@@ -127,7 +136,6 @@ const MyPostWidget = ({ picturePath }) => {
           </Dropzone>
         </Box>
       )}
-
       <Divider sx={{ margin: "1.25rem 0" }} />
 
       <FlexBetween>
