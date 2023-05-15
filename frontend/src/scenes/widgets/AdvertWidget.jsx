@@ -12,14 +12,14 @@ const AdvertWidget = () => {
 
   return (
     <WidgetWrapper>
-      <img
+      {/* <img
         width="100%"
         height="auto"
         alt="advert"
         // src="http://travellocom-backend-service:3001/public/assets/info4.jpeg"
         src="./info4.jpeg"
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
-      />
+      /> */}
       <FlexBetween>
       <Typography color={main}>Quote</Typography>
         <Typography color={medium}>Here is the quote for day!!!</Typography>

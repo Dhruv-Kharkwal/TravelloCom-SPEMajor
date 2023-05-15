@@ -1,0 +1,740 @@
+2023-05-12T16:33:45.035Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T16:33:45.351Z [INFO] Getting users post feeds.
+2023-05-12T16:33:45.395Z [INFO] Successfully got user's data!
+2023-05-12T16:33:45.423Z [INFO] Getting users post feeds.
+2023-05-12T16:33:45.451Z [INFO] Successfully got user's data!
+2023-05-12T16:33:45.860Z [INFO] Successfully got user's friend's list!
+2023-05-12T16:33:45.963Z [INFO] Successfully got user's friend's list!
+2023-05-12T16:33:49.137Z [INFO] Successfully added/removed user's friend!
+2023-05-12T16:33:51.759Z [INFO] Successfully added/removed user's friend!
+2023-05-12T16:34:19.040Z [INFO] Successfully added/removed user's friend!
+2023-05-12T16:45:37.849Z [INFO] Successfully added/removed user's friend!
+2023-05-12T16:45:39.898Z [INFO] Successfully added/removed user's friend!
+2023-05-12T16:51:43.315Z [ERROR] User login failed: User does not exist.
+2023-05-12T18:08:16.930Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T18:08:17.702Z [INFO] Getting users post feeds.
+2023-05-12T18:08:17.775Z [INFO] Successfully got user's data!
+2023-05-12T18:08:17.929Z [INFO] Successfully got user's data!
+2023-05-12T18:08:18.026Z [INFO] Getting users post feeds.
+2023-05-12T18:08:18.638Z [INFO] Successfully got user's friend's list!
+2023-05-12T18:08:18.842Z [INFO] Successfully got user's friend's list!
+2023-05-13T21:03:10.604Z [INFO] Getting users post feeds.
+2023-05-13T21:03:13.492Z [INFO] Getting users post feeds.
+2023-05-13T21:03:13.592Z [INFO] Successfully got user's friend's list!
+2023-05-13T21:03:13.796Z [INFO] Successfully got user's friend's list!
+2023-05-13T21:03:14.103Z [INFO] Successfully got user's data!
+2023-05-13T21:03:14.203Z [INFO] Successfully got user's data!
+2023-05-13T21:17:18.965Z [INFO] User logged in: dhruv@gmail.com
+2023-05-13T21:17:19.127Z [INFO] Getting users post feeds.
+2023-05-13T21:17:19.301Z [INFO] Getting users post feeds.
+2023-05-13T21:17:19.626Z [INFO] Successfully got user's friend's list!
+2023-05-13T21:17:19.729Z [INFO] Successfully got user's data!
+2023-05-13T21:17:19.837Z [INFO] Successfully got user's friend's list!
+2023-05-13T21:17:19.840Z [INFO] Successfully got user's data!
+2023-05-13T21:17:45.829Z [INFO] User logged in: dhruv@gmail.com
+2023-05-13T21:17:45.968Z [INFO] Getting users post feeds.
+2023-05-13T21:17:46.033Z [INFO] Getting users post feeds.
+2023-05-13T21:17:46.038Z [INFO] Successfully got user's data!
+2023-05-13T21:17:46.151Z [INFO] Successfully got user's data!
+2023-05-13T21:17:47.067Z [INFO] Successfully got user's friend's list!
+2023-05-13T21:17:47.271Z [INFO] Successfully got user's friend's list!
+2023-05-13T21:26:27.117Z [INFO] User logged in: dhruv@gmail.com
+2023-05-13T21:26:27.508Z [INFO] Getting users post feeds.
+2023-05-13T21:26:27.591Z [INFO] Getting users post feeds.
+2023-05-13T21:26:27.878Z [INFO] Successfully got user's friend's list!
+2023-05-13T21:26:28.092Z [INFO] Successfully got user's friend's list!
+2023-05-13T21:26:28.293Z [INFO] Successfully got user's data!
+2023-05-13T21:26:28.495Z [INFO] Successfully got user's data!
+2023-05-13T21:26:40.374Z [INFO] Post deleted
+2023-05-13T21:26:42.422Z [INFO] Post deleted
+2023-05-12T18:46:55.609Z [ERROR] User login failed: User does not exist.
+2023-05-12T18:48:31.920Z [ERROR] User login failed: User does not exist.
+2023-05-12T18:55:55.195Z [ERROR] User login failed: Invalid credentials for dhruv@gmail.com
+2023-05-12T18:55:55.476Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T18:57:24.788Z [ERROR] User login failed: Invalid credentials for dhruv@gmail.com
+2023-05-12T18:57:25.195Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:00:21.934Z [ERROR] User login failed: Invalid credentials for dhruv@gmail.com
+2023-05-12T19:00:22.462Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:02:26.687Z [ERROR] User login failed: Invalid credentials for dhruv@gmail.com
+2023-05-12T19:02:27.602Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:03:51.715Z [ERROR] User login failed: Invalid credentials for dhruv@gmail.com
+2023-05-12T19:03:51.959Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:06:08.184Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:07:56.303Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:08:35.499Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:08:58.295Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:11:56.696Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:13:20.172Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:13:38.601Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:14:55.819Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:21:54.402Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:22:41.001Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:25:17.368Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:31:40.771Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:32:10.357Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:33:11.083Z [ERROR] User login failed: Operation `users.findOne()` buffering timed out after 10000ms
+2023-05-12T19:34:16.393Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T19:50:56.956Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T20:01:24.037Z [INFO] User registered: testuser@gmail.com
+2023-05-12T20:01:31.854Z [INFO] User logged in: testuser@gmail.com
+2023-05-12T20:01:32.147Z [INFO] Getting users post feeds.
+2023-05-12T20:01:32.201Z [INFO] Successfully got user's data!
+2023-05-12T20:01:32.256Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:01:32.267Z [INFO] Getting users post feeds.
+2023-05-12T20:01:32.292Z [INFO] Successfully got user's data!
+2023-05-12T20:01:32.433Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:03:27.110Z [INFO] User registered: dummyuser@gmail.com
+2023-05-12T20:03:34.527Z [INFO] User logged in: testuser@gmail.com
+2023-05-12T20:03:34.707Z [INFO] Getting users post feeds.
+2023-05-12T20:03:34.894Z [INFO] Successfully got user's data!
+2023-05-12T20:03:34.908Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:03:34.935Z [INFO] Getting users post feeds.
+2023-05-12T20:03:34.966Z [INFO] Successfully got user's data!
+2023-05-12T20:03:35.009Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:07:19.153Z [INFO] New Post created by user.
+2023-05-12T20:08:10.451Z [INFO] Successfully got user's data!
+2023-05-12T20:08:10.566Z [INFO] Successfully got user's data!
+2023-05-12T20:08:10.655Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:08:10.658Z [INFO] Successfully got user's data!
+2023-05-12T20:08:10.661Z [INFO] Getting users own post.
+2023-05-12T20:08:10.767Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:08:10.770Z [INFO] Successfully got user's data!
+2023-05-12T20:08:10.773Z [INFO] Getting users own post.
+2023-05-12T20:39:21.018Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T20:53:02.361Z [INFO] Getting users post feeds.
+2023-05-12T20:53:02.697Z [INFO] Successfully got user's data!
+2023-05-12T20:53:02.715Z [INFO] Getting users post feeds.
+2023-05-12T20:53:02.792Z [INFO] Successfully got user's data!
+2023-05-12T20:53:04.316Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:53:04.483Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:53:20.386Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T20:53:20.580Z [INFO] Getting users post feeds.
+2023-05-12T20:53:20.704Z [INFO] Successfully got user's data!
+2023-05-12T20:53:20.724Z [INFO] Getting users post feeds.
+2023-05-12T20:53:20.801Z [INFO] Successfully got user's data!
+2023-05-12T20:53:22.963Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:53:23.266Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:56:54.869Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T20:56:55.109Z [INFO] Getting users post feeds.
+2023-05-12T20:56:55.325Z [INFO] Successfully got user's data!
+2023-05-12T20:56:55.353Z [INFO] Getting users post feeds.
+2023-05-12T20:56:55.427Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:56:55.433Z [INFO] Successfully got user's data!
+2023-05-12T20:56:55.630Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:58:33.681Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T20:58:33.892Z [INFO] Getting users post feeds.
+2023-05-12T20:58:34.108Z [INFO] Successfully got user's data!
+2023-05-12T20:58:34.273Z [INFO] Successfully got user's data!
+2023-05-12T20:58:34.293Z [INFO] Getting users post feeds.
+2023-05-12T20:58:34.320Z [INFO] Successfully got user's friend's list!
+2023-05-12T20:58:34.866Z [INFO] Successfully got user's friend's list!
+2023-05-12T21:03:17.229Z [INFO] Getting users post feeds.
+2023-05-12T21:03:17.385Z [INFO] Successfully got user's data!
+2023-05-12T21:03:17.392Z [INFO] Getting users post feeds.
+2023-05-12T21:03:17.489Z [INFO] Successfully got user's data!
+2023-05-12T21:07:57.553Z [INFO] Successfully got user's friend's list!
+2023-05-12T21:07:57.759Z [INFO] Successfully got user's friend's list!
+2023-05-12T21:09:57.185Z [INFO] Getting users post feeds.
+2023-05-12T21:09:57.260Z [INFO] Successfully got user's data!
+2023-05-12T21:09:57.269Z [INFO] Getting users post feeds.
+2023-05-12T21:09:57.537Z [INFO] Successfully got user's friend's list!
+2023-05-12T21:09:57.544Z [INFO] Successfully got user's data!
+2023-05-12T21:09:57.764Z [INFO] Successfully got user's friend's list!
+2023-05-12T21:24:57.762Z [INFO] Post liked!
+2023-05-12T21:24:59.700Z [INFO] Post liked!
+2023-05-12T21:25:06.458Z [INFO] Post liked!
+2023-05-12T21:25:12.504Z [INFO] Post liked!
+2023-05-12T21:25:16.097Z [INFO] Post liked!
+2023-05-12T21:26:27.662Z [INFO] Post liked!
+2023-05-12T21:26:31.760Z [ERROR] ERROR]while adding comment. post.comments.push is not a function
+2023-05-12T21:29:19.499Z [ERROR] ERROR]while adding comment. post.comments.push is not a function
+2023-05-12T21:31:39.380Z [ERROR] ERROR]while adding comment. post.comments.push is not a function
+2023-05-12T21:32:33.623Z [ERROR] ERROR]while adding comment. post.comments.push is not a function
+2023-05-12T21:34:26.829Z [INFO] Comment added to Post!
+2023-05-12T22:06:00.715Z [INFO] User logged in: dhruv@gmail.com
+2023-05-12T22:06:00.851Z [INFO] Getting users post feeds.
+2023-05-12T22:06:00.962Z [INFO] Getting users post feeds.
+2023-05-12T22:06:00.972Z [INFO] Successfully got user's data!
+2023-05-12T22:06:01.042Z [INFO] Successfully got user's data!
+2023-05-12T22:06:01.746Z [INFO] Successfully got user's friend's list!
+2023-05-12T22:06:01.962Z [INFO] Successfully got user's friend's list!
+2023-05-12T22:07:57.061Z [INFO] New Post created by user.
+2023-05-12T22:08:01.255Z [INFO] Post liked!
+2023-05-12T22:08:09.858Z [INFO] Comment added to Post!
+2023-05-12T22:09:51.025Z [INFO] Comment added to Post!
+2023-05-12T22:09:55.565Z [INFO] Comment added to Post!
+2023-05-12T22:16:12.908Z [INFO] Comment added to Post!
+2023-05-12T22:16:28.530Z [INFO] Getting users post feeds.
+2023-05-12T22:16:28.553Z [INFO] Successfully got user's data!
+2023-05-12T22:16:28.625Z [INFO] Getting users post feeds.
+2023-05-12T22:16:28.773Z [INFO] Successfully got user's data!
+2023-05-12T22:16:29.488Z [INFO] Successfully got user's friend's list!
+2023-05-12T22:16:29.695Z [INFO] Successfully got user's friend's list!
+2023-05-12T22:19:03.711Z [INFO] Comment added to Post!
+2023-05-12T22:19:20.769Z [INFO] Getting users post feeds.
+2023-05-12T22:19:20.918Z [INFO] Successfully got user's data!
+2023-05-12T22:19:20.922Z [INFO] Getting users post feeds.
+2023-05-12T22:19:21.016Z [INFO] Successfully got user's friend's list!
+2023-05-12T22:19:21.019Z [INFO] Successfully got user's data!
+2023-05-12T22:19:21.219Z [INFO] Successfully got user's friend's list!
+2023-05-12T22:20:39.987Z [INFO] Getting users post feeds.
+2023-05-12T22:20:40.028Z [INFO] Successfully got user's data!
+2023-05-12T22:20:40.050Z [INFO] Getting users post feeds.
+2023-05-12T22:20:40.083Z [INFO] Successfully got user's data!
+2023-05-12T22:20:40.119Z [INFO] Successfully got user's friend's list!
+2023-05-12T22:20:40.483Z [INFO] Successfully got user's friend's list!
+2023-05-12T22:22:22.069Z [INFO] Post liked!
+2023-05-12T22:22:22.887Z [INFO] Post liked!
+2023-05-12T22:55:08.449Z [INFO] Getting users post feeds.
+2023-05-12T22:55:09.161Z [INFO] Successfully got user's data!
+2023-05-12T22:55:09.163Z [INFO] Getting users post feeds.
+2023-05-12T22:55:09.307Z [INFO] Successfully got user's friend's list!
+2023-05-12T22:55:09.309Z [INFO] Successfully got user's data!
+2023-05-12T22:55:09.512Z [INFO] Successfully got user's friend's list!
+2023-05-12T23:09:13.400Z [INFO] New Post created by user.
+2023-05-13T06:14:59.806Z [INFO] Getting users post feeds.
+2023-05-13T06:20:22.698Z [INFO] User logged in: dhruv@gmail.com
+2023-05-13T06:20:22.901Z [INFO] Getting users post feeds.
+2023-05-13T06:20:22.972Z [INFO] Getting users post feeds.
+2023-05-13T06:20:23.059Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:20:23.190Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:20:23.714Z [INFO] Successfully got user's data!
+2023-05-13T06:20:23.816Z [INFO] Successfully got user's data!
+2023-05-13T06:20:32.928Z [INFO] Successfully got user's data!
+2023-05-13T06:20:33.240Z [INFO] Successfully got user's data!
+2023-05-13T06:20:33.387Z [INFO] Successfully got user's data!
+2023-05-13T06:20:33.431Z [INFO] Getting users own post.
+2023-05-13T06:20:33.456Z [INFO] Successfully got user's data!
+2023-05-13T06:20:33.487Z [INFO] Getting users own post.
+2023-05-13T06:20:33.498Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:20:33.511Z [INFO] Successfully got user's data!
+2023-05-13T06:20:33.645Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:20:44.502Z [INFO] Successfully got user's data!
+2023-05-13T06:20:44.608Z [INFO] Successfully got user's data!
+2023-05-13T06:20:44.650Z [INFO] Getting users own post.
+2023-05-13T06:20:44.676Z [INFO] Successfully got user's data!
+2023-05-13T06:20:44.707Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:20:44.722Z [INFO] Getting users own post.
+2023-05-13T06:20:44.737Z [INFO] Successfully got user's data!
+2023-05-13T06:20:45.014Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:20:52.284Z [INFO] Successfully got user's data!
+2023-05-13T06:20:52.397Z [INFO] Successfully got user's data!
+2023-05-13T06:20:52.590Z [INFO] Successfully got user's data!
+2023-05-13T06:20:52.597Z [INFO] Getting users own post.
+2023-05-13T06:20:52.694Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:20:52.698Z [INFO] Successfully got user's data!
+2023-05-13T06:20:52.701Z [INFO] Getting users own post.
+2023-05-13T06:20:52.897Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:20:57.394Z [INFO] Getting users post feeds.
+2023-05-13T06:20:57.485Z [INFO] Getting users post feeds.
+2023-05-13T06:20:57.575Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:20:57.581Z [INFO] Successfully got user's data!
+2023-05-13T06:20:57.717Z [INFO] Successfully got user's data!
+2023-05-13T06:20:57.764Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:20:59.757Z [INFO] Successfully added/removed user's friend!
+2023-05-13T06:27:49.031Z [INFO] Successfully got user's data!
+2023-05-13T06:27:49.160Z [INFO] Successfully got user's data!
+2023-05-13T06:27:49.466Z [INFO] Successfully got user's data!
+2023-05-13T06:27:49.493Z [INFO] Getting users own post.
+2023-05-13T06:27:49.569Z [INFO] Successfully got user's data!
+2023-05-13T06:27:49.881Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:27:49.884Z [INFO] Getting users own post.
+2023-05-13T06:27:49.979Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:28:02.062Z [INFO] Successfully got user's data!
+2023-05-13T06:28:02.165Z [INFO] Successfully got user's data!
+2023-05-13T06:29:44.863Z [INFO] Successfully got user's data!
+2023-05-13T06:29:45.071Z [INFO] Successfully got user's data!
+2023-05-13T06:34:31.825Z [INFO] User logged in: dhruv@gmail.com
+2023-05-13T06:34:32.256Z [INFO] Getting users post feeds.
+2023-05-13T06:34:32.426Z [INFO] Getting users post feeds.
+2023-05-13T06:34:32.519Z [INFO] Successfully got user's data!
+2023-05-13T06:34:32.531Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:34:32.621Z [INFO] Successfully got user's data!
+2023-05-13T06:34:32.627Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:56:15.193Z [INFO] Post! deleted
+2023-05-13T06:56:22.548Z [INFO] Post! deleted
+2023-05-13T06:56:23.879Z [INFO] Post! deleted
+2023-05-13T06:56:24.596Z [INFO] Post! deleted
+2023-05-13T06:56:24.904Z [INFO] Post! deleted
+2023-05-13T06:56:25.144Z [INFO] Post! deleted
+2023-05-13T06:56:25.520Z [INFO] Post! deleted
+2023-05-13T06:56:42.657Z [INFO] Getting users post feeds.
+2023-05-13T06:56:43.027Z [INFO] Getting users post feeds.
+2023-05-13T06:56:43.047Z [INFO] Successfully got user's data!
+2023-05-13T06:56:43.065Z [INFO] Successfully got user's friend's list!
+2023-05-13T06:56:43.089Z [INFO] Successfully got user's data!
+2023-05-13T06:56:43.115Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:00:18.801Z [ERROR] ERROR]while deleting post. findByIdAndDelete is not defined
+2023-05-13T07:01:16.872Z [ERROR] ERROR]while deleting post. Cast to ObjectId failed for value "{ id: '645ec71933ec30e7428f68b8' }" (type Object) at path "_id" for model "Post"
+2023-05-13T07:02:28.033Z [INFO] Post! deleted
+2023-05-13T07:02:31.709Z [INFO] Post! deleted
+2023-05-13T07:03:31.722Z [ERROR] ERROR]while deleting post. Post.save is not a function
+2023-05-13T07:06:29.920Z [ERROR] ERROR]while deleting post. Post.DeleteOne is not a function
+2023-05-13T07:07:01.113Z [ERROR] ERROR]while deleting post. Post.DeleteOne is not a function
+2023-05-13T07:08:21.834Z [ERROR] ERROR]while deleting post. Parameter "filter" to deleteOne() must be an object, got 645ec71933ec30e7428f68b8
+2023-05-13T07:09:51.237Z [INFO] Post! deleted
+2023-05-13T07:09:51.245Z [ERROR] ERROR]while deleting post. res.status is not a function
+2023-05-13T07:11:14.796Z [INFO] Post! deleted
+2023-05-13T07:12:01.387Z [INFO] Post! deleted
+2023-05-13T07:12:07.019Z [INFO] Getting users post feeds.
+2023-05-13T07:12:07.069Z [INFO] Successfully got user's data!
+2023-05-13T07:12:07.122Z [INFO] Getting users post feeds.
+2023-05-13T07:12:07.209Z [INFO] Successfully got user's data!
+2023-05-13T07:12:07.617Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:07.721Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:31.683Z [INFO] Post! deleted
+2023-05-13T07:12:35.609Z [INFO] Getting users post feeds.
+2023-05-13T07:12:35.681Z [INFO] Successfully got user's data!
+2023-05-13T07:12:35.701Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:35.725Z [INFO] Getting users post feeds.
+2023-05-13T07:12:35.746Z [INFO] Successfully got user's data!
+2023-05-13T07:12:35.801Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:39.758Z [INFO] Getting users post feeds.
+2023-05-13T07:12:39.794Z [INFO] Successfully got user's data!
+2023-05-13T07:12:39.820Z [INFO] Getting users post feeds.
+2023-05-13T07:12:39.843Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:39.851Z [INFO] Successfully got user's data!
+2023-05-13T07:12:39.910Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:42.636Z [INFO] Post! deleted
+2023-05-13T07:12:47.789Z [INFO] Getting users post feeds.
+2023-05-13T07:12:47.861Z [INFO] Successfully got user's data!
+2023-05-13T07:12:47.878Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:47.889Z [INFO] Getting users post feeds.
+2023-05-13T07:12:47.965Z [INFO] Successfully got user's data!
+2023-05-13T07:12:47.974Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:56.336Z [INFO] Getting users post feeds.
+2023-05-13T07:12:56.460Z [INFO] Successfully got user's data!
+2023-05-13T07:12:56.466Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:56.475Z [INFO] Getting users post feeds.
+2023-05-13T07:12:56.562Z [INFO] Successfully got user's data!
+2023-05-13T07:12:56.567Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:58.715Z [INFO] Successfully got user's data!
+2023-05-13T07:12:58.808Z [INFO] Successfully got user's data!
+2023-05-13T07:12:58.832Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:58.845Z [INFO] Getting users own post.
+2023-05-13T07:12:58.920Z [INFO] Successfully got user's data!
+2023-05-13T07:12:58.923Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:12:58.926Z [INFO] Getting users own post.
+2023-05-13T07:12:58.977Z [INFO] Successfully got user's data!
+2023-05-13T07:13:00.594Z [INFO] Getting users post feeds.
+2023-05-13T07:13:00.658Z [INFO] Successfully got user's data!
+2023-05-13T07:13:00.662Z [INFO] Successfully got user's friend's list!
+2023-05-13T07:13:00.668Z [INFO] Getting users post feeds.
+2023-05-13T07:13:00.761Z [INFO] Successfully got user's data!
+2023-05-13T07:13:00.762Z [INFO] Successfully got user's friend's list!
+2023-05-13T08:32:58.539Z [INFO] Post liked!
+2023-05-13T08:32:58.850Z [INFO] Post liked!
+2023-05-13T08:32:59.768Z [INFO] Post liked!
+2023-05-13T08:33:01.610Z [INFO] Post liked!
+2023-05-13T08:33:07.141Z [INFO] Post! deleted
+2023-05-13T08:37:09.906Z [INFO] Getting users post feeds.
+2023-05-13T08:37:09.970Z [INFO] Getting users post feeds.
+2023-05-13T08:37:10.245Z [INFO] Successfully got user's friend's list!
+2023-05-13T08:37:10.254Z [INFO] Successfully got user's data!
+2023-05-13T08:37:10.332Z [INFO] Successfully got user's data!
+2023-05-13T08:37:10.348Z [INFO] Successfully got user's friend's list!
+2023-05-13T08:37:12.188Z [INFO] Post! deleted
+2023-05-13T08:39:15.105Z [INFO] Post! deleted
+2023-05-13T08:40:59.527Z [INFO] Post! deleted
+2023-05-13T08:45:19.822Z [ERROR] ERROR]while deleting post. Model.findOneAndDelete() no longer accepts a callback
+2023-05-13T08:47:42.296Z [INFO] Post deleted
+2023-05-13T08:48:43.957Z [INFO] Getting users post feeds.
+2023-05-13T08:48:44.157Z [INFO] Successfully got user's friend's list!
+2023-05-13T08:48:44.185Z [INFO] Getting users post feeds.
+2023-05-13T08:48:44.338Z [INFO] Successfully got user's friend's list!
+2023-05-13T08:48:45.056Z [INFO] Successfully got user's data!
+2023-05-13T08:48:45.156Z [INFO] Successfully got user's data!
+2023-05-13T08:55:23.549Z [INFO] New Post created by user.
+2023-05-13T08:55:26.414Z [INFO] Post deleted
+2023-05-13T08:56:40.551Z [INFO] Successfully got user's data!
+2023-05-13T08:56:40.650Z [INFO] Successfully got user's data!
+2023-05-13T08:56:40.714Z [INFO] Successfully got user's data!
+2023-05-13T08:56:40.748Z [INFO] Getting users own post.
+2023-05-13T08:56:40.760Z [INFO] Successfully got user's data!
+2023-05-13T08:56:40.855Z [INFO] Successfully got user's friend's list!
+2023-05-13T08:56:40.857Z [INFO] Getting users own post.
+2023-05-13T08:56:40.905Z [INFO] Successfully got user's friend's list!
+2023-05-13T08:56:42.845Z [INFO] Getting users post feeds.
+2023-05-13T08:56:42.904Z [INFO] Successfully got user's friend's list!
+2023-05-13T08:56:42.913Z [INFO] Successfully got user's data!
+2023-05-13T08:56:42.927Z [INFO] Getting users post feeds.
+2023-05-13T08:56:43.010Z [INFO] Successfully got user's data!
+2023-05-13T08:56:43.020Z [INFO] Successfully got user's friend's list!
+2023-05-13T08:57:00.516Z [INFO] New Post created by user.
+2023-05-13T08:57:05.641Z [INFO] Post deleted
+2023-05-13T08:57:28.101Z [INFO] Getting users post feeds.
+2023-05-13T08:57:28.137Z [INFO] Successfully got user's data!
+2023-05-13T08:57:28.154Z [INFO] Successfully got user's friend's list!
+2023-05-13T08:57:28.178Z [INFO] Getting users post feeds.
+2023-05-13T08:57:28.205Z [INFO] Successfully got user's data!
+2023-05-13T08:57:28.230Z [INFO] Successfully got user's friend's list!
+2023-05-13T08:57:41.581Z [INFO] New Post created by user.
+2023-05-13T08:57:44.037Z [INFO] Post deleted
+2023-05-13T09:00:08.752Z [INFO] Getting users post feeds.
+2023-05-13T09:00:08.858Z [INFO] Getting users post feeds.
+2023-05-13T09:00:08.904Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:00:08.908Z [INFO] Successfully got user's data!
+2023-05-13T09:00:09.078Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:00:09.136Z [INFO] Successfully got user's data!
+2023-05-13T09:02:00.601Z [INFO] New Post created by user.
+2023-05-13T09:02:34.954Z [INFO] Post deleted
+2023-05-13T09:02:37.143Z [INFO] Getting users post feeds.
+2023-05-13T09:02:37.177Z [INFO] Getting users post feeds.
+2023-05-13T09:02:37.220Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:02:37.275Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:02:38.539Z [INFO] Successfully got user's data!
+2023-05-13T09:02:38.640Z [INFO] Successfully got user's data!
+2023-05-13T09:03:00.310Z [INFO] New Post created by user.
+2023-05-13T09:03:02.397Z [INFO] Post deleted
+2023-05-13T09:04:34.976Z [INFO] Getting users post feeds.
+2023-05-13T09:04:35.284Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:04:35.287Z [INFO] Successfully got user's data!
+2023-05-13T09:04:35.298Z [INFO] Getting users post feeds.
+2023-05-13T09:04:35.337Z [INFO] Successfully got user's data!
+2023-05-13T09:04:35.340Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:04:47.047Z [INFO] New Post created by user.
+2023-05-13T09:04:48.894Z [INFO] Post deleted
+2023-05-13T09:07:30.727Z [INFO] Getting users post feeds.
+2023-05-13T09:07:30.904Z [INFO] Getting users post feeds.
+2023-05-13T09:07:30.939Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:07:30.984Z [INFO] Successfully got user's data!
+2023-05-13T09:07:30.989Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:07:31.097Z [INFO] Successfully got user's data!
+2023-05-13T09:07:50.555Z [INFO] New Post created by user.
+2023-05-13T09:07:53.366Z [INFO] Post deleted
+2023-05-13T09:09:01.926Z [INFO] Getting users post feeds.
+2023-05-13T09:09:02.033Z [INFO] Successfully got user's data!
+2023-05-13T09:09:02.041Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:09:02.053Z [INFO] Getting users post feeds.
+2023-05-13T09:09:02.133Z [INFO] Successfully got user's data!
+2023-05-13T09:09:02.137Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:09:09.714Z [INFO] New Post created by user.
+2023-05-13T09:09:11.350Z [INFO] Post deleted
+2023-05-13T09:12:19.112Z [INFO] Getting users post feeds.
+2023-05-13T09:12:19.165Z [INFO] Successfully got user's data!
+2023-05-13T09:12:19.170Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:12:19.176Z [INFO] Getting users post feeds.
+2023-05-13T09:12:19.263Z [INFO] Successfully got user's data!
+2023-05-13T09:12:19.266Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:12:26.227Z [INFO] New Post created by user.
+2023-05-13T09:12:28.065Z [INFO] Post deleted
+2023-05-13T09:14:20.914Z [INFO] New Post created by user.
+2023-05-13T09:14:26.140Z [INFO] Post deleted
+2023-05-13T09:14:29.208Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:14:29.316Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:14:39.345Z [INFO] Successfully got user's data!
+2023-05-13T09:14:39.457Z [INFO] Successfully got user's data!
+2023-05-13T09:14:39.478Z [INFO] Getting users own post.
+2023-05-13T09:14:39.490Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:14:39.512Z [INFO] Successfully got user's data!
+2023-05-13T09:14:39.521Z [INFO] Getting users own post.
+2023-05-13T09:14:39.528Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:14:39.571Z [INFO] Successfully got user's data!
+2023-05-13T09:14:44.903Z [INFO] Getting users post feeds.
+2023-05-13T09:14:44.943Z [INFO] Successfully got user's friend's list!
+2023-05-13T09:14:44.948Z [INFO] Successfully got user's data!
+2023-05-13T09:14:44.967Z [INFO] Getting users post feeds.
+2023-05-13T09:14:44.999Z [INFO] Successfully got user's data!
+2023-05-13T09:14:45.003Z [INFO] Successfully got user's friend's list!
+2023-05-13T10:50:09.011Z [INFO] Successfully got user's friend's list!
+2023-05-13T10:50:09.098Z [INFO] Successfully got user's friend's list!
+2023-05-13T10:54:21.858Z [INFO] Getting users post feeds.
+2023-05-13T10:54:21.895Z [INFO] Successfully got user's friend's list!
+2023-05-13T10:54:22.029Z [INFO] Successfully got user's friend's list!
+2023-05-13T10:54:23.051Z [INFO] Successfully got user's data!
+2023-05-13T10:54:23.697Z [INFO] Getting users post feeds.
+2023-05-13T10:54:23.766Z [INFO] Successfully got user's data!
+2023-05-13T10:55:12.301Z [INFO] Post deleted
+2023-05-13T11:09:55.653Z [INFO] Getting users post feeds.
+2023-05-13T11:10:11.610Z [INFO] Getting users post feeds.
+2023-05-13T11:10:12.174Z [INFO] Getting users post feeds.
+2023-05-13T11:10:12.404Z [INFO] Successfully got user's data!
+2023-05-13T11:10:12.411Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:10:12.508Z [INFO] Successfully got user's data!
+2023-05-13T11:10:12.512Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:28:41.750Z [INFO] Getting users post feeds.
+2023-05-13T11:28:42.216Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:28:42.722Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:28:44.672Z [INFO] Getting users post feeds.
+2023-05-13T11:28:44.768Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:28:44.777Z [INFO] Getting users post feeds.
+2023-05-13T11:28:44.817Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:28:44.978Z [INFO] Successfully got user's data!
+2023-05-13T11:28:45.078Z [INFO] Successfully got user's data!
+2023-05-13T11:29:12.417Z [INFO] New Post created by user.
+2023-05-13T11:29:31.977Z [INFO] New Post created by user.
+2023-05-13T11:31:03.465Z [INFO] Getting users post feeds.
+2023-05-13T11:31:36.475Z [INFO] Getting users post feeds.
+2023-05-13T11:32:45.202Z [INFO] New Post created by user.
+2023-05-13T11:33:40.700Z [INFO] Post deleted
+2023-05-13T11:34:35.180Z [INFO] New Post created by user.
+2023-05-13T11:34:41.809Z [INFO] Post deleted
+2023-05-13T11:34:45.187Z [INFO] Getting users post feeds.
+2023-05-13T11:34:45.294Z [INFO] Successfully got user's data!
+2023-05-13T11:34:45.303Z [INFO] Getting users post feeds.
+2023-05-13T11:34:45.323Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:34:45.418Z [INFO] Successfully got user's data!
+2023-05-13T11:34:45.425Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:34:51.254Z [INFO] Post deleted
+2023-05-13T11:34:54.026Z [INFO] Getting users post feeds.
+2023-05-13T11:34:54.118Z [INFO] Successfully got user's data!
+2023-05-13T11:34:54.124Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:34:54.132Z [INFO] Getting users post feeds.
+2023-05-13T11:34:54.221Z [INFO] Successfully got user's data!
+2023-05-13T11:34:54.228Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:35:32.287Z [INFO] Post liked!
+2023-05-13T11:35:38.152Z [INFO] Comment added to Post!
+2023-05-13T11:35:47.460Z [INFO] Getting users post feeds.
+2023-05-13T11:35:47.574Z [INFO] Successfully got user's data!
+2023-05-13T11:35:47.582Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:35:47.602Z [INFO] Getting users post feeds.
+2023-05-13T11:35:47.672Z [INFO] Successfully got user's data!
+2023-05-13T11:35:47.675Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:36:24.475Z [INFO] Getting users post feeds.
+2023-05-13T11:36:31.489Z [INFO] Getting users post feeds.
+2023-05-13T11:36:41.446Z [INFO] Post deleted
+2023-05-13T11:37:04.679Z [INFO] New Post created by user.
+2023-05-13T11:53:58.924Z [INFO] Getting users post feeds.
+2023-05-13T11:53:59.350Z [INFO] Successfully got user's data!
+2023-05-13T11:53:59.355Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:53:59.359Z [INFO] Getting users post feeds.
+2023-05-13T11:53:59.645Z [INFO] Successfully got user's data!
+2023-05-13T11:53:59.647Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:54:30.158Z [INFO] Post deleted
+2023-05-13T11:54:46.292Z [INFO] New Post created by user.
+2023-05-13T11:55:34.365Z [INFO] New Post created by user.
+2023-05-13T11:55:39.996Z [INFO] Post deleted
+2023-05-13T11:56:17.290Z [INFO] Getting users post feeds.
+2023-05-13T11:56:17.539Z [INFO] Getting users post feeds.
+2023-05-13T11:56:17.640Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:56:17.783Z [INFO] Successfully got user's data!
+2023-05-13T11:56:17.789Z [INFO] Successfully got user's friend's list!
+2023-05-13T11:56:17.884Z [INFO] Successfully got user's data!
+2023-05-13T11:57:10.213Z [INFO] New Post created by user.
+2023-05-13T11:57:13.591Z [INFO] Post deleted
+2023-05-13T12:09:53.328Z [INFO] User logged in: dhruv@gmail.com
+2023-05-13T12:09:53.437Z [INFO] Getting users post feeds.
+2023-05-13T12:09:53.513Z [INFO] Getting users post feeds.
+2023-05-13T12:09:53.541Z [INFO] Successfully got user's friend's list!
+2023-05-13T12:09:53.608Z [INFO] Successfully got user's friend's list!
+2023-05-13T12:09:54.442Z [INFO] Successfully got user's data!
+2023-05-13T12:09:54.509Z [INFO] Successfully got user's data!
+2023-05-13T12:10:15.038Z [INFO] Post liked!
+2023-05-13T12:10:22.203Z [INFO] Comment added to Post!
+2023-05-13T12:10:26.210Z [INFO] Getting users post feeds.
+2023-05-13T12:10:26.266Z [INFO] Getting users post feeds.
+2023-05-13T12:10:26.269Z [INFO] Successfully got user's data!
+2023-05-13T12:10:26.272Z [INFO] Successfully got user's friend's list!
+2023-05-13T12:10:26.331Z [INFO] Successfully got user's data!
+2023-05-13T12:10:26.343Z [INFO] Successfully got user's friend's list!
+2023-05-13T12:10:32.749Z [INFO] Post deleted
+2023-05-13T12:12:10.339Z [INFO] New Post created by user.
+2023-05-13T12:12:20.475Z [INFO] Comment added to Post!
+2023-05-13T12:14:50.595Z [INFO] Comment added to Post!
+2023-05-13T12:15:03.396Z [INFO] Comment added to Post!
+2023-05-13T12:15:07.734Z [INFO] Getting users post feeds.
+2023-05-13T12:15:07.801Z [INFO] Successfully got user's data!
+2023-05-13T12:15:07.805Z [INFO] Successfully got user's friend's list!
+2023-05-13T12:15:07.824Z [INFO] Getting users post feeds.
+2023-05-13T12:15:07.901Z [INFO] Successfully got user's data!
+2023-05-13T12:15:07.904Z [INFO] Successfully got user's friend's list!
+2023-05-13T12:15:16.399Z [INFO] Post deleted
+2023-05-13T12:19:58.724Z [INFO] New Post created by user.
+2023-05-13T12:20:14.695Z [INFO] Comment added to Post!
+2023-05-13T12:25:12.251Z [INFO] Post liked!
+2023-05-13T12:25:18.515Z [INFO] Comment added to Post!
+2023-05-14T12:00:23.740Z [INFO] User logged in: dhruv@gmail.com
+2023-05-14T12:00:23.888Z [INFO] Getting users post feeds.
+2023-05-14T12:00:23.943Z [INFO] Successfully got user's data!
+2023-05-14T12:00:23.947Z [INFO] Getting users post feeds.
+2023-05-14T12:00:24.096Z [INFO] Successfully got user's data!
+2023-05-14T12:00:24.708Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:00:25.012Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:00:30.860Z [INFO] Successfully added/removed user's friend!
+2023-05-14T12:00:41.331Z [INFO] Getting users post feeds.
+2023-05-14T12:00:41.385Z [INFO] Successfully got user's data!
+2023-05-14T12:00:41.395Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:00:41.405Z [INFO] Getting users post feeds.
+2023-05-14T12:00:41.460Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:00:41.473Z [INFO] Successfully got user's data!
+2023-05-14T12:00:45.818Z [INFO] Getting users post feeds.
+2023-05-14T12:00:45.917Z [INFO] Successfully got user's data!
+2023-05-14T12:00:45.926Z [INFO] Getting users post feeds.
+2023-05-14T12:00:45.938Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:00:45.970Z [INFO] Successfully got user's data!
+2023-05-14T12:00:46.426Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:00:51.085Z [INFO] Getting users post feeds.
+2023-05-14T12:00:51.118Z [INFO] Successfully got user's data!
+2023-05-14T12:00:51.151Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:00:51.164Z [INFO] Getting users post feeds.
+2023-05-14T12:00:51.184Z [INFO] Successfully got user's data!
+2023-05-14T12:00:51.216Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:03:43.276Z [INFO] Getting users post feeds.
+2023-05-14T12:03:43.534Z [INFO] Successfully got user's data!
+2023-05-14T12:03:43.542Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:03:43.554Z [INFO] Getting users post feeds.
+2023-05-14T12:03:43.602Z [INFO] Successfully got user's data!
+2023-05-14T12:03:43.619Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:03:50.180Z [INFO] Comment added to Post!
+2023-05-14T12:03:53.942Z [INFO] Getting users post feeds.
+2023-05-14T12:03:54.077Z [INFO] Successfully got user's data!
+2023-05-14T12:03:54.089Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:03:54.110Z [INFO] Getting users post feeds.
+2023-05-14T12:03:54.144Z [INFO] Successfully got user's data!
+2023-05-14T12:03:54.163Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:06:46.207Z [INFO] Getting users post feeds.
+2023-05-14T12:06:46.238Z [INFO] Successfully got user's data!
+2023-05-14T12:06:46.265Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:06:46.274Z [INFO] Getting users post feeds.
+2023-05-14T12:06:46.300Z [INFO] Successfully got user's data!
+2023-05-14T12:06:46.321Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:06:53.587Z [INFO] Getting users post feeds.
+2023-05-14T12:06:53.636Z [INFO] Getting users post feeds.
+2023-05-14T12:06:53.641Z [INFO] Successfully got user's data!
+2023-05-14T12:06:53.667Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:06:53.713Z [INFO] Successfully got user's data!
+2023-05-14T12:06:53.748Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:07:14.729Z [INFO] New Post created by user.
+2023-05-14T12:12:37.292Z [INFO] Getting users post feeds.
+2023-05-14T12:12:37.328Z [INFO] Successfully got user's data!
+2023-05-14T12:12:37.356Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:12:37.379Z [INFO] Getting users post feeds.
+2023-05-14T12:12:37.396Z [INFO] Successfully got user's data!
+2023-05-14T12:12:37.427Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:14:27.582Z [INFO] Post deleted
+2023-05-14T12:14:30.860Z [INFO] Post deleted
+2023-05-14T12:14:34.483Z [INFO] Getting users post feeds.
+2023-05-14T12:14:34.547Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:14:34.554Z [INFO] Successfully got user's data!
+2023-05-14T12:14:34.564Z [INFO] Getting users post feeds.
+2023-05-14T12:14:34.646Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:14:34.650Z [INFO] Successfully got user's data!
+2023-05-14T12:15:08.604Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T12:15:08.655Z [INFO] Getting users post feeds.
+2023-05-14T12:15:08.734Z [INFO] Getting users post feeds.
+2023-05-14T12:15:08.744Z [INFO] Successfully got user's data!
+2023-05-14T12:15:08.757Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:15:08.782Z [INFO] Successfully got user's data!
+2023-05-14T12:15:08.794Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:16:39.782Z [INFO] New Post created by user.
+2023-05-14T12:16:53.606Z [INFO] Comment added to Post!
+2023-05-14T12:16:57.073Z [INFO] Getting users post feeds.
+2023-05-14T12:16:57.195Z [INFO] Successfully got user's data!
+2023-05-14T12:16:57.204Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:16:57.213Z [INFO] Getting users post feeds.
+2023-05-14T12:16:57.402Z [INFO] Successfully got user's data!
+2023-05-14T12:16:57.410Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:19:40.010Z [INFO] Post liked!
+2023-05-14T12:20:06.224Z [ERROR] User login failed: User does not exist.
+2023-05-14T12:32:27.857Z [ERROR] User login failed: Invalid credentials for dummyuser@gmail.com
+2023-05-14T12:32:37.332Z [INFO] User logged in: dummyuser@gmail.com
+2023-05-14T12:32:37.421Z [INFO] Getting users post feeds.
+2023-05-14T12:32:37.444Z [INFO] Successfully got user's data!
+2023-05-14T12:32:37.461Z [INFO] Getting users post feeds.
+2023-05-14T12:32:37.463Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:32:37.481Z [INFO] Successfully got user's data!
+2023-05-14T12:32:37.504Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:32:41.539Z [INFO] Successfully added/removed user's friend!
+2023-05-14T12:32:44.202Z [INFO] Post liked!
+2023-05-14T12:32:51.166Z [INFO] Comment added to Post!
+2023-05-14T12:32:53.783Z [INFO] Getting users post feeds.
+2023-05-14T12:32:53.827Z [INFO] Successfully got user's data!
+2023-05-14T12:32:53.836Z [INFO] Getting users post feeds.
+2023-05-14T12:32:53.943Z [INFO] Successfully got user's data!
+2023-05-14T12:32:53.948Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:32:54.136Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:34:44.365Z [INFO] New Post created by user.
+2023-05-14T12:34:49.645Z [INFO] Post liked!
+2023-05-14T12:34:57.937Z [INFO] Successfully got user's data!
+2023-05-14T12:34:58.040Z [INFO] Successfully got user's data!
+2023-05-14T12:34:58.157Z [INFO] Successfully got user's data!
+2023-05-14T12:34:58.202Z [INFO] Getting users own post.
+2023-05-14T12:34:58.213Z [INFO] Successfully got user's data!
+2023-05-14T12:34:58.219Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:34:58.244Z [INFO] Getting users own post.
+2023-05-14T12:34:58.258Z [INFO] Successfully got user's data!
+2023-05-14T12:34:58.296Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:35:07.360Z [INFO] Successfully added/removed user's friend!
+2023-05-14T12:35:10.534Z [INFO] Successfully added/removed user's friend!
+2023-05-14T12:35:16.058Z [INFO] Getting users post feeds.
+2023-05-14T12:35:16.172Z [INFO] Successfully got user's data!
+2023-05-14T12:35:16.183Z [INFO] Getting users post feeds.
+2023-05-14T12:35:16.278Z [INFO] Successfully got user's friend's list!
+2023-05-14T12:35:16.284Z [INFO] Successfully got user's data!
+2023-05-14T12:35:16.370Z [INFO] Successfully got user's friend's list!
+2023-05-14T13:07:21.739Z [INFO] User logged in: dhruv@gmail.com
+2023-05-14T13:08:00.250Z [INFO] User logged in: dhruv@gmail.com
+2023-05-14T13:11:53.379Z [ERROR] User login failed: Invalid credentials for testuser@gmail.com
+2023-05-14T13:12:27.979Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T13:13:33.540Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T13:17:26.082Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T13:18:46.696Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T13:18:46.847Z [ERROR] User login failed: Invalid credentials for testuser@gmail.com
+2023-05-14T13:19:57.469Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T13:19:57.658Z [ERROR] User login failed: Invalid credentials for testuser@gmail.com
+2023-05-14T13:22:12.037Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T13:22:35.368Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T13:22:35.584Z [ERROR] User login failed: Invalid credentials for testuser@gmail.com
+2023-05-14T13:33:07.363Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T13:33:07.500Z [ERROR] User login failed: Invalid credentials for testuser@gmail.com
+2023-05-14T13:36:11.162Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T13:36:11.331Z [ERROR] User login failed: Invalid credentials for testuser@gmail.com
+2023-05-14T13:44:06.472Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T13:44:35.121Z [INFO] User logged in: testuser@gmail.com
+2023-05-14T13:44:35.243Z [ERROR] User login failed: Invalid credentials for testuser@gmail.com
+2023-05-14T14:33:31.738Z [INFO] User logged in: dhruv@gmail.com
+2023-05-14T14:33:31.845Z [INFO] Getting users post feeds.
+2023-05-14T14:33:31.985Z [INFO] Successfully got user's data!
+2023-05-14T14:33:32.220Z [INFO] Successfully got user's data!
+2023-05-14T14:33:32.930Z [INFO] Getting users post feeds.
+2023-05-14T14:33:32.935Z [INFO] Successfully got user's friend's list!
+2023-05-14T14:33:33.019Z [INFO] Successfully got user's friend's list!
+2023-05-14T14:34:27.822Z [INFO] Successfully added/removed user's friend!
+2023-05-14T14:34:38.805Z [INFO] Getting users post feeds.
+2023-05-14T14:34:39.393Z [INFO] Getting users post feeds.
+2023-05-14T14:34:39.409Z [INFO] Successfully got user's data!
+2023-05-14T14:34:39.713Z [INFO] Successfully got user's friend's list!
+2023-05-14T14:34:40.351Z [INFO] Successfully got user's data!
+2023-05-14T14:34:41.386Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:07:48.899Z [INFO] User logged in: dhruv@gmail.com
+2023-05-14T17:07:49.022Z [INFO] Getting users post feeds.
+2023-05-14T17:07:49.073Z [INFO] Successfully got user's data!
+2023-05-14T17:07:49.091Z [INFO] Getting users post feeds.
+2023-05-14T17:07:49.484Z [INFO] Successfully got user's data!
+2023-05-14T17:07:49.492Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:07:49.691Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:08:11.023Z [INFO] Successfully added/removed user's friend!
+2023-05-14T17:08:15.674Z [INFO] Successfully added/removed user's friend!
+2023-05-14T17:08:19.633Z [INFO] Successfully added/removed user's friend!
+2023-05-14T17:09:10.687Z [INFO] Post deleted
+2023-05-14T17:11:53.565Z [INFO] Getting users post feeds.
+2023-05-14T17:11:53.609Z [INFO] Successfully got user's data!
+2023-05-14T17:11:53.641Z [INFO] Getting users post feeds.
+2023-05-14T17:11:53.645Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:11:53.808Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:11:54.610Z [INFO] Successfully got user's data!
+2023-05-14T17:14:48.896Z [INFO] Getting users post feeds.
+2023-05-14T17:14:49.015Z [INFO] Successfully got user's data!
+2023-05-14T17:14:49.025Z [INFO] Getting users post feeds.
+2023-05-14T17:14:49.117Z [INFO] Successfully got user's data!
+2023-05-14T17:14:49.119Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:14:49.219Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:22:35.085Z [INFO] Getting users post feeds.
+2023-05-14T17:22:35.143Z [INFO] Successfully got user's data!
+2023-05-14T17:22:35.150Z [INFO] Getting users post feeds.
+2023-05-14T17:22:35.244Z [INFO] Successfully got user's data!
+2023-05-14T17:22:35.248Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:22:35.331Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:23:05.603Z [INFO] Getting users post feeds.
+2023-05-14T17:23:05.641Z [INFO] Successfully got user's data!
+2023-05-14T17:23:05.650Z [INFO] Getting users post feeds.
+2023-05-14T17:23:05.674Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:23:05.686Z [INFO] Successfully got user's data!
+2023-05-14T17:23:05.747Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:23:35.138Z [INFO] User logged in: dhruv@gmail.com
+2023-05-14T17:23:35.252Z [INFO] Getting users post feeds.
+2023-05-14T17:23:35.289Z [INFO] Successfully got user's data!
+2023-05-14T17:23:35.306Z [INFO] Getting users post feeds.
+2023-05-14T17:23:35.355Z [INFO] Successfully got user's friend's list!
+2023-05-14T17:23:35.359Z [INFO] Successfully got user's data!
+2023-05-14T17:23:35.456Z [INFO] Successfully got user's friend's list!

@@ -10,20 +10,22 @@ export const logger = winston.createLogger({
     })
   ),
   transports: [
-    new ElasticsearchTransport({
-      level: "info",
-      index: "logs",
-      clientOpts: {
-        node: "http://localhost:9200/",
-      },
-    }),
+    // new ElasticsearchTransport({
+    //   level: "info",
+    //   index: "logs",
+    //   clientOpts: {
+    //     node: "http://localhost:9200/",
+    //   },
+    // }),
 
-    new DailyRotateFile({
-      level: "info", // Log level for file transport
-      filename: "logs/file.log", // Log file name pattern
-      dirname: "./logs", // Directory to store log files
-      //   maxFiles: "5d", // Maximum log files to keep
-      //   zippedArchive: true, // Archive rotated log files
-    }),
+    // new DailyRotateFile({
+    //   level: "info", // Log level for file transport
+    //   filename: "logs/file.log", // Log file name pattern
+    //   dirname: "./logs", // Directory to store log files
+    //   //   maxFiles: "5d", // Maximum log files to keep
+    //   //   zippedArchive: true, // Archive rotated log files
+    // }),
+    new winston.transports.File({ filename: "logs/server.log" }),
+
   ],
 });
